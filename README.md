@@ -1,2 +1,2 @@
 # atividadePortugol
-Repositório para armazenar atividades ou projetos feitos no Portugol.
+Repositório para armazenar atividades feitas no Portugol.
