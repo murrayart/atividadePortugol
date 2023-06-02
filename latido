@@ -1,0 +1,28 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia nome
+		real peso
+
+		   escreva("informe o nome: " )
+		leia(nome)
+
+		   escreva("informe o peso: ")
+		leia(peso)
+
+		se(peso <= 2)
+		   escreva(nome, " late fofo: auauau")
+
+		se(peso < 10 e peso > 2)
+		   escreva(nome, " tem um belo latido")
+
+		   senao 
+
+		   se(peso > 10)
+		   escreva(nome, " late grosso: AUF AUF !!1!1!")
+
+		
+	}
+}
